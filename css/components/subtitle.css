@@ -1,0 +1,8 @@
+@import "../colors.css";
+
+h2{ 
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 30px;
+    color: var(--color-third);
+    text-shadow: 4px 4px 0 var(--color-black-first);
+}
