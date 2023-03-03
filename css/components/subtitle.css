@@ -1,6 +1,6 @@
 @import "../colors.css";
 
-h2{ 
+.subtitle{ 
     font-family: "Press Start 2P", sans-serif;
     font-size: 30px;
     color: var(--color-third);

@@ -1,6 +1,6 @@
 @import "./colors.css";
 
-h1{
+.title{
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     color: var(--color-monster-third);
