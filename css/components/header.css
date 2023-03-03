@@ -1,0 +1,9 @@
+@import "./colors.css";
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color-monster-first);
+    border-bottom: 10px solid var(--color-black-first);
+    padding: 10px 20px;
+}
