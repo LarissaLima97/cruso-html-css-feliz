@@ -1,0 +1,9 @@
+@import "./../colors.css"; 
+
+.section {
+    background-color: var(--color-monster-first);
+    height: 730px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid var( --color-black-second);
+}
