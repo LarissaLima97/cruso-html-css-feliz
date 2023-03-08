@@ -1,0 +1,12 @@
+@import "./colors.css";
+
+.tech-skill {
+    display: flex;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 25px;
+    color: var(--color-third);
+}
+
+.tech-skill .icon {
+    margin-right: 25px;
+}
