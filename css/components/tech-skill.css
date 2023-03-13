@@ -10,3 +10,9 @@
 .tech-skill .icon {
     margin-right: 25px;
 }
+
+.tech-skill .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
