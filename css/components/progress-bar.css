@@ -4,7 +4,6 @@
     background-color: #FFFFFF;
     border: 5px solid var(--color-black-first);
     height: 40px;
-    width: 320px;
 }
 
 .progress-bar::-webkit-progress-bar {
