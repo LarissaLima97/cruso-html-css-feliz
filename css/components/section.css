@@ -11,3 +11,9 @@
 .section .main-title {
     margin-bottom: 60px;
 }
+
+.section.-projects {
+    background-color: var(--color-second);
+    height: 500px;
+    border-bottom: 10px solid var(--color-monster-third);
+}
