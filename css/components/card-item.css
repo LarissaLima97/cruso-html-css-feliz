@@ -1,8 +1,6 @@
 @import "../colors.css";
 
 .card-item { 
-    display: flex;
-    align-items: center;
     width: 280px;
     height: 280px;
     background-color: var(--color-monster-second);
