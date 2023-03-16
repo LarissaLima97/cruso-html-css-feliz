@@ -1,0 +1,8 @@
+.wrapper-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper-cards .card-item{
+    margin-top: 50px;
+}
