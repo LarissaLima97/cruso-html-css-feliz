@@ -1,8 +1,0 @@
-.wrapper-projects {
-    display: flex;
-    justify-content: space-around;
-}
-
-.wrapper-projects .card-item{
-    margin-top: 50px;
-}

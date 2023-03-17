@@ -1,6 +1,6 @@
 @import "./colors.css";
 
-.header {
+.main-header {
     display: flex;
     justify-content: space-between;
     background-color: var(--color-monster-first);

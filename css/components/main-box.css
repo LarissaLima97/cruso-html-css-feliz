@@ -1,6 +1,6 @@
 @import "./colors.css";
 
-.box {
+.main-box {
     display: inline-block;
     background-color: var(--color-monster-second);
     box-shadow: 10px 10px 0 var(--color-black-first);
@@ -8,6 +8,6 @@
     padding: 42px 15px;
 }
 
-.box .title {
+.main-box .main-title {
     margin-bottom: 28px ;
 }

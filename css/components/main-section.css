@@ -1,6 +1,6 @@
 @import "./../colors.css"; 
 
-.section {
+.main-section {
     background-color: var(--color-monster-first);
     height: 730px;
     padding-top: 50px;
@@ -8,11 +8,11 @@
     border-bottom: 10px solid var( --color-black-second);
 }
 
-.section .main-title {
+.main-section .main-title {
     margin-bottom: 60px;
 }
 
-.section.-projects {
+.main-section.-projects {
     background-color: var(--color-second);
     height: 500px;
     border-bottom: 10px solid var(--color-monster-third);
