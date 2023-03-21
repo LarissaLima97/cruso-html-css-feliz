@@ -1,0 +1,8 @@
+@import "../colors.css";
+
+.main-description {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 39px;
+    color: var(--color-third);
+}
