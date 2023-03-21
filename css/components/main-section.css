@@ -17,3 +17,9 @@
     height: 500px;
     border-bottom: 10px solid var(--color-monster-third);
 }
+
+.main-section.-about {
+    background-color: var(--color-monster-fourth);
+    height: 730px;
+    border-bottom: 10px solid var(--color-black-second);
+}
