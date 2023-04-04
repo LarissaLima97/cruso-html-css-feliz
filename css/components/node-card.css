@@ -7,7 +7,7 @@
     position: relative;
 }
 
-.node-card::before{
+.node-card::before {
     content: "";
     position: absolute;
     box-sizing: border-box;
@@ -25,12 +25,22 @@
     margin-bottom: 50px;
 }
 
-.node-card .logo{
+.node-card .logo {
     display: flex;
     align-items: center;
     height: 140px;
     width: 220px;
     padding-right: 20px;
     border: 5px solid var(--color-black-first);
+    background-color: var(--color-monster-second);
+}
+
+.node-card .image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.node-card.-first .logo {
     background-color: var(--color-third);
 }
