@@ -5,6 +5,7 @@
     height: 280px;
     background-color: var(--color-monster-second);
     box-shadow: 10px 10px 0 var(--color-third);
+    margin-left: 150px;
 }
 
 .card-item.-second {
