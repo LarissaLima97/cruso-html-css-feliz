@@ -1,0 +1,17 @@
+@import "../colors.css";
+
+.main-footer { 
+    display: flex;
+    justify-content: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    background-color: var(--color-black-second);
+    height: 100px;
+}
+
+.main-footer .size {
+    width: 45px;
+    height: 45px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
