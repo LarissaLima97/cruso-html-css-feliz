@@ -1,0 +1,17 @@
+@import "../colors.css";
+
+.main-form .label {
+    display: block;
+    color: var(--color-third);
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.main-form .input { 
+    display: block;
+    border: 5px solid var(--color-black-first);
+}
+
+.main-form .textarea {
+    resize: none;
+}
