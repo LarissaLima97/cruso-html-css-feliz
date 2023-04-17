@@ -23,3 +23,7 @@
     height: 730px;
     border-bottom: 10px solid var(--color-black-second);
 }
+
+.main-section.-contact {
+    background-color: var(--color-monster-first);
+}
