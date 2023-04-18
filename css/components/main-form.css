@@ -1,17 +1,18 @@
 @import "../colors.css";
 
-.main-form .label {
-    display: block;
-    color: var(--color-third);
-    font-size: 30px;
-    font-weight: 300;
+.main-form {
+    background-color: var(--color-monster-first);
+    padding: 50px 20px;
 }
 
-.main-form .input { 
-    display: block;
-    border: 5px solid var(--color-black-first);
+.main-form .main-title.-second {
+    margin-bottom: 50px;
 }
 
-.main-form .textarea {
-    resize: none;
+.main-form .main-input {
+    margin-bottom: 20px;
+}
+
+.main-form .main-input.-textarea {
+    margin-bottom: 40px;
 }
