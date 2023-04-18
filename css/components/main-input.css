@@ -1,0 +1,16 @@
+@import "../colors.css";
+
+.main-input {
+    box-sizing: border-box;
+    border: 5px solid var(--color-black-first);
+    font-size: 30px;
+    height: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+}
+
+.main-input.-textarea {
+    height: 320px;
+    resize: none;
+}
