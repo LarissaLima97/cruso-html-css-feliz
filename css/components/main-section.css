@@ -27,3 +27,7 @@
 .main-section.-contact {
     background-color: var(--color-monster-first);
 }
+
+.main-section .main-description { 
+    margin-top: 100px;
+}
